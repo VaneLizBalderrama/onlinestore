@@ -1,0 +1,19 @@
+{
+    "name": "vanelizbalderrama/onlinestore",
+    "description": "Sistema para una tienda en linea",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "VaneLizBalderrama",
+            "email": "vaned.hd@gmail.com"
+        }
+    ],
+    "require": {}
+}
